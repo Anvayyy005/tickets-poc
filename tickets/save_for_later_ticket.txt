@@ -1,0 +1,17 @@
+Summary: Add "Save for Later" button on product page
+
+Description:
+Users should be able to save a product to a personal list so they can revisit it later. This helps improve user retention.
+
+Acceptance Criteria:
+1. A "Save for Later" button is visible on product page.
+2. Clicking the button adds the product to user's Saved Items list.
+3. Saved Items list persists across sessions.
+4. User sees success message "Saved to your list".
+5. If user is not logged in, prompt them to log in.
+
+Definition of Done:
+- Unit tests implemented
+- UI matches Figma design
+- QA test cases approved
+- API documented in Swagger
